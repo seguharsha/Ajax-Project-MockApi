@@ -30,7 +30,7 @@ This project demonstrates a basic front-end application using AJAX and `XMLHttpR
 ## Contributing
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request. We welcome contributions that improve the design, functionality, or performance of the application.
-If you have any questions or suggestions, please feel free to contact me at [your-email@example.com].
+If you have any questions or suggestions, please feel free to contact me at [seguharsha793@gmail.com].
 
 ---
 
